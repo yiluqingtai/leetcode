@@ -15,9 +15,9 @@
 | 题目                                                         | 难度   |      |
 | ------------------------------------------------------------ | :----- | ---- |
 | [Leetcode25.K个一组翻转链表](https://github.com/yiluqingtai/leetcode/blob/master/List/leetcode25.cpp) | hard   | ⭐⭐⭐  |
-| Leetcode141.环形链表                                         | easy   | ⭐    |
+| [Leetcode141.环形链表]([leetcode/leetcode141.cpp at master · yiluqingtai/leetcode (github.com)](https://github.com/yiluqingtai/leetcode/blob/master/List/leetcode141.cpp)) | easy   | ⭐    |
 | [Leetcode143.重排链表](https://github.com/yiluqingtai/leetcode/blob/master/List/leetcode143.cpp) | medium | ⭐⭐   |
-| Leetcode234.回文链表                                         | easy   | ⭐    |
+| [Leetcode234.回文链表]([leetcode/leetcode234.cpp at master · yiluqingtai/leetcode (github.com)](https://github.com/yiluqingtai/leetcode/blob/master/List/leetcode234.cpp)) | easy   | ⭐    |
 
 ### 树
 
@@ -40,11 +40,9 @@
 
 ### 字符串
 
-| 题目                    | 难度 |      |
-| ----------------------- | ---- | ---- |
-| Leetcode76.最小覆盖子串 | hard | ⭐⭐⭐  |
-
-
+| 题目                                                         | 难度 |      |
+| ------------------------------------------------------------ | ---- | ---- |
+| [Leetcode76.最小覆盖子串]([leetcode/Leetcode176.cpp at master · yiluqingtai/leetcode (github.com)](https://github.com/yiluqingtai/leetcode/blob/master/String/Leetcode176.cpp)) | hard | ⭐⭐⭐  |
 
 ### 深度优先搜索
 
@@ -59,13 +57,18 @@
 | [Leetcode39.组合总数](https://github.com/yiluqingtai/leetcode/blob/master/Backtrace/leetcode39.cpp) | medium | ⭐⭐   |
 | [Leetcode46.全排列](https://github.com/yiluqingtai/leetcode/blob/master/Backtrace/leetcode46.cpp) | medium | ⭐⭐   |
 
-
-
 ### 二分查找
 
 | 题目                                                         | 难度 |      |
 | ------------------------------------------------------------ | ---- | ---- |
 | [Leetcode69.x的平方根](https://github.com/yiluqingtai/leetcode/blob/master/Binary%20Search/leetcode69.cpp) | easy | ⭐⭐⭐  |
 
+### 周赛
 
+| 题目                                  | 难度   | 类型       |      |
+| ------------------------------------- | ------ | ---------- | ---- |
+| Leetcode5737.判断句子是否为全字母句   | easy   | 哈希表     |      |
+| Leetcode5735.雪糕的最大数量           | medium | 贪心       |      |
+| Leetcode5736.单线程CPU                | medium | 优先级队列 | ⭐⭐⭐  |
+| Leetcode1835.所有数按位与结果的异或和 | hard   | 位运算     | ⭐⭐⭐  |
 
