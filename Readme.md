@@ -15,9 +15,9 @@
 | 题目                                                         | 难度   |      |
 | ------------------------------------------------------------ | :----- | ---- |
 | [Leetcode25.K个一组翻转链表](https://github.com/yiluqingtai/leetcode/blob/master/List/leetcode25.cpp) | hard   | ⭐⭐⭐  |
-| [Leetcode141.环形链表]([leetcode/leetcode141.cpp at master · yiluqingtai/leetcode (github.com)](https://github.com/yiluqingtai/leetcode/blob/master/List/leetcode141.cpp)) | easy   | ⭐    |
+| [Leetcode141.环形链表](https://github.com/yiluqingtai/leetcode/blob/master/List/leetcode141.cpp) | easy   | ⭐    |
 | [Leetcode143.重排链表](https://github.com/yiluqingtai/leetcode/blob/master/List/leetcode143.cpp) | medium | ⭐⭐   |
-| [Leetcode234.回文链表]([leetcode/leetcode234.cpp at master · yiluqingtai/leetcode (github.com)](https://github.com/yiluqingtai/leetcode/blob/master/List/leetcode234.cpp)) | easy   | ⭐    |
+| [Leetcode234.回文链表](https://github.com/yiluqingtai/leetcode/blob/master/List/leetcode234.cpp) | easy   | ⭐    |
 
 ### 树
 
