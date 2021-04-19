@@ -42,7 +42,7 @@
 
 | 题目                                                         | 难度 |      |
 | ------------------------------------------------------------ | ---- | ---- |
-| [Leetcode76.最小覆盖子串]([leetcode/Leetcode176.cpp at master · yiluqingtai/leetcode (github.com)](https://github.com/yiluqingtai/leetcode/blob/master/String/Leetcode176.cpp)) | hard | ⭐⭐⭐  |
+| [Leetcode76.最小覆盖子串](https://github.com/yiluqingtai/leetcode/blob/master/String/Leetcode176.cpp) | hard | ⭐⭐⭐  |
 
 ### 深度优先搜索
 
@@ -65,10 +65,12 @@
 
 ### 周赛
 
-| 题目                                  | 难度   | 类型       |      |
-| ------------------------------------- | ------ | ---------- | ---- |
-| Leetcode5737.判断句子是否为全字母句   | easy   | 哈希表     |      |
-| Leetcode5735.雪糕的最大数量           | medium | 贪心       |      |
-| Leetcode5736.单线程CPU                | medium | 优先级队列 | ⭐⭐⭐  |
-| Leetcode1835.所有数按位与结果的异或和 | hard   | 位运算     | ⭐⭐⭐  |
+#### 237
+
+| 题目                                                         | 难度   | 类型       |      |
+| ------------------------------------------------------------ | ------ | ---------- | ---- |
+| [Leetcode5737.判断句子是否为全字母句](https://github.com/yiluqingtai/leetcode/blob/master/Contest/237/leetcode5737.cpp) | easy   | 哈希表     |      |
+| [Leetcode5735.雪糕的最大数量](https://github.com/yiluqingtai/leetcode/blob/master/Contest/237/leetcode5735.cpp) | medium | 贪心       |      |
+| [Leetcode5736.单线程CPU](https://github.com/yiluqingtai/leetcode/blob/master/Contest/237/leetcode5736.cpp) | medium | 优先级队列 | ⭐⭐⭐  |
+| [Leetcode1835.所有数按位与结果的异或和](https://github.com/yiluqingtai/leetcode/tree/master/Contest/237/leetcode1835) | hard   | 位运算     | ⭐⭐⭐  |
 
