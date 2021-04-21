@@ -15,26 +15,29 @@
 | 题目                                                         | 难度   |      |
 | ------------------------------------------------------------ | :----- | ---- |
 | [Leetcode25.K个一组翻转链表](https://github.com/yiluqingtai/leetcode/blob/master/List/leetcode25.cpp) | hard   | ⭐⭐⭐  |
+| Leetcode92.反转链表2                                         | medium | ⭐⭐⭐  |
 | [Leetcode141.环形链表](https://github.com/yiluqingtai/leetcode/blob/master/List/leetcode141.cpp) | easy   | ⭐    |
 | [Leetcode143.重排链表](https://github.com/yiluqingtai/leetcode/blob/master/List/leetcode143.cpp) | medium | ⭐⭐   |
-| Leetcode206.反转链表                                         | easy   | ⭐    |
+| Leetcode148.排序链表                                         | medium | ⭐⭐⭐  |
+| [Leetcode206.反转链表](https://github.com/yiluqingtai/leetcode/tree/master/List/leetcode206) | easy   | ⭐    |
 | [Leetcode234.回文链表](https://github.com/yiluqingtai/leetcode/blob/master/List/leetcode234.cpp) | easy   | ⭐    |
 
 ### 树
 
 | 题目                                                         | 难度   |      |
 | ------------------------------------------------------------ | ------ | ---- |
-| Leetcode94.二叉树的中序遍历                                  | medium | ⭐    |
+| [Leetcode94.二叉树的中序遍历](https://github.com/yiluqingtai/leetcode/blob/master/Tree/leetcode94.cpp) | medium | ⭐    |
 | [Leetcode101.对称二叉树](https://github.com/yiluqingtai/leetcode/blob/master/Tree/leetcode101.cpp) | easy   | ⭐⭐   |
-| Leetcode103.二叉树的锯齿形层次遍历                           | medium | ⭐    |
+| [Leetcode103.二叉树的锯齿形层次遍历](https://github.com/yiluqingtai/leetcode/blob/master/Tree/leetcode103.cpp) | medium | ⭐    |
 | [Leetcode124.二叉树中的最大路径和](https://github.com/yiluqingtai/leetcode/blob/master/Tree/leetcode124.cpp) | hard   | ⭐    |
-| Leetcode144.二叉树的前序遍历                                 | medium | ⭐    |
-| Leetcode145.二叉树的后序遍历                                 | medium | ⭐⭐⭐  |
+| [Leetcode144.二叉树的前序遍历](https://github.com/yiluqingtai/leetcode/blob/master/Tree/leetcode144.cpp) | medium | ⭐    |
+| [Leetcode145.二叉树的后序遍历](https://github.com/yiluqingtai/leetcode/blob/master/Tree/leetcode145.cpp) | medium | ⭐⭐⭐  |
 
 ### 栈
 
 | 题目                                                         | 难度 |      |
 | ------------------------------------------------------------ | ---- | ---- |
+| Leetcode20.有效的括号                                        | easy | ⭐⭐   |
 | [Leetcode155.最小栈](https://github.com/yiluqingtai/leetcode/tree/master/Stack) | easy | ⭐⭐   |
 
 ### 哈希表
@@ -47,7 +50,7 @@
 
 | 题目                                                         | 难度   |      |
 | ------------------------------------------------------------ | ------ | ---- |
-| Leetcode3.无重复字符的最长子串                               | medium | ⭐⭐   |
+| [Leetcode3.无重复字符的最长子串](https://github.com/yiluqingtai/leetcode/blob/master/String/Leetcode3.cpp) | medium | ⭐⭐   |
 | [Leetcode76.最小覆盖子串](https://github.com/yiluqingtai/leetcode/blob/master/String/Leetcode176.cpp) | hard   | ⭐⭐⭐  |
 
 ### 深度优先搜索
