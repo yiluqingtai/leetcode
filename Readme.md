@@ -15,7 +15,7 @@
 | 题目                                                         | 难度   |      |
 | ------------------------------------------------------------ | :----- | ---- |
 | [Leetcode25.K个一组翻转链表](https://github.com/yiluqingtai/leetcode/blob/master/List/leetcode25.cpp) | hard   | ⭐⭐⭐  |
-| Leetcode92.反转链表2                                         | medium | ⭐⭐⭐  |
+| [Leetcode92.反转链表2](https://github.com/yiluqingtai/leetcode/blob/master/List/leetcode92.cpp) | medium | ⭐⭐⭐  |
 | [Leetcode141.环形链表](https://github.com/yiluqingtai/leetcode/blob/master/List/leetcode141.cpp) | easy   | ⭐    |
 | [Leetcode143.重排链表](https://github.com/yiluqingtai/leetcode/blob/master/List/leetcode143.cpp) | medium | ⭐⭐   |
 | Leetcode148.排序链表                                         | medium | ⭐⭐⭐  |
@@ -27,7 +27,7 @@
 | 题目                                                         | 难度   |      |
 | ------------------------------------------------------------ | ------ | ---- |
 | [Leetcode94.二叉树的中序遍历](https://github.com/yiluqingtai/leetcode/blob/master/Tree/leetcode94.cpp) | medium | ⭐    |
-| Leetcode98.验证二叉搜索树                                    | medium | ⭐⭐⭐  |
+| [Leetcode98.验证二叉搜索树](https://github.com/yiluqingtai/leetcode/blob/master/Tree/leetcode98.cpp) | medium | ⭐⭐⭐  |
 | [Leetcode101.对称二叉树](https://github.com/yiluqingtai/leetcode/blob/master/Tree/leetcode101.cpp) | easy   | ⭐⭐   |
 | [Leetcode103.二叉树的锯齿形层次遍历](https://github.com/yiluqingtai/leetcode/blob/master/Tree/leetcode103.cpp) | medium | ⭐    |
 | [Leetcode124.二叉树中的最大路径和](https://github.com/yiluqingtai/leetcode/blob/master/Tree/leetcode124.cpp) | hard   | ⭐    |
@@ -38,9 +38,9 @@
 
 | 题目                                                         | 难度 |      |
 | ------------------------------------------------------------ | ---- | ---- |
-| Leetcode20.有效的括号                                        | easy | ⭐⭐   |
+| [Leetcode20.有效的括号](https://github.com/yiluqingtai/leetcode/blob/master/Stack/leetcode20.cpp) | easy | ⭐⭐   |
 | [Leetcode155.最小栈](https://github.com/yiluqingtai/leetcode/tree/master/Stack) | easy | ⭐⭐   |
-| Leetcode232.用栈实现队列                                     | easy | ⭐⭐   |
+| [Leetcode232.用栈实现队列](https://github.com/yiluqingtai/leetcode/blob/master/Stack/leetcode232.cpp) | easy | ⭐⭐   |
 
 ### 哈希表
 
@@ -76,9 +76,9 @@
 
 ### 动态规划
 
-| 题目                 | 难度   |      |
-| -------------------- | ------ | ---- |
-| Leetcode198.打家劫舍 | medium | ⭐⭐   |
+| 题目                                                         | 难度   |      |
+| ------------------------------------------------------------ | ------ | ---- |
+| [Leetcode198.打家劫舍](https://github.com/yiluqingtai/leetcode/tree/master/DP/leetcode198) | medium | ⭐⭐   |
 
 
 
