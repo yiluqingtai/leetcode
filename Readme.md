@@ -18,7 +18,7 @@
 | [Leetcode92.反转链表2](https://github.com/yiluqingtai/leetcode/blob/master/List/leetcode92.cpp) | medium | ⭐⭐⭐  |
 | [Leetcode141.环形链表](https://github.com/yiluqingtai/leetcode/blob/master/List/leetcode141.cpp) | easy   | ⭐    |
 | [Leetcode143.重排链表](https://github.com/yiluqingtai/leetcode/blob/master/List/leetcode143.cpp) | medium | ⭐⭐   |
-| Leetcode148.排序链表                                         | medium | ⭐⭐⭐  |
+| [Leetcode148.排序链表](https://github.com/yiluqingtai/leetcode/blob/master/List/leetcode148.cpp) | medium | ⭐⭐⭐  |
 | [Leetcode206.反转链表](https://github.com/yiluqingtai/leetcode/tree/master/List/leetcode206) | easy   | ⭐    |
 | [Leetcode234.回文链表](https://github.com/yiluqingtai/leetcode/blob/master/List/leetcode234.cpp) | easy   | ⭐    |
 
