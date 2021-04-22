@@ -27,6 +27,7 @@
 | 题目                                                         | 难度   |      |
 | ------------------------------------------------------------ | ------ | ---- |
 | [Leetcode94.二叉树的中序遍历](https://github.com/yiluqingtai/leetcode/blob/master/Tree/leetcode94.cpp) | medium | ⭐    |
+| Leetcode98.验证二叉搜索树                                    | medium | ⭐⭐⭐  |
 | [Leetcode101.对称二叉树](https://github.com/yiluqingtai/leetcode/blob/master/Tree/leetcode101.cpp) | easy   | ⭐⭐   |
 | [Leetcode103.二叉树的锯齿形层次遍历](https://github.com/yiluqingtai/leetcode/blob/master/Tree/leetcode103.cpp) | medium | ⭐    |
 | [Leetcode124.二叉树中的最大路径和](https://github.com/yiluqingtai/leetcode/blob/master/Tree/leetcode124.cpp) | hard   | ⭐    |
@@ -39,6 +40,7 @@
 | ------------------------------------------------------------ | ---- | ---- |
 | Leetcode20.有效的括号                                        | easy | ⭐⭐   |
 | [Leetcode155.最小栈](https://github.com/yiluqingtai/leetcode/tree/master/Stack) | easy | ⭐⭐   |
+| Leetcode232.用栈实现队列                                     | easy | ⭐⭐   |
 
 ### 哈希表
 
@@ -51,7 +53,7 @@
 | 题目                                                         | 难度   |      |
 | ------------------------------------------------------------ | ------ | ---- |
 | [Leetcode3.无重复字符的最长子串](https://github.com/yiluqingtai/leetcode/blob/master/String/Leetcode3.cpp) | medium | ⭐⭐   |
-| [Leetcode76.最小覆盖子串](https://github.com/yiluqingtai/leetcode/blob/master/String/Leetcode176.cpp) | hard   | ⭐⭐⭐  |
+| [Leetcode76.最小覆盖子串](https://github.com/yiluqingtai/leetcode/blob/master/String/Leetcode176.cpp) | hard   | ⭐⭐⭐⭐ |
 
 ### 深度优先搜索
 
@@ -71,6 +73,14 @@
 | 题目                                                         | 难度 |      |
 | ------------------------------------------------------------ | ---- | ---- |
 | [Leetcode69.x的平方根](https://github.com/yiluqingtai/leetcode/blob/master/Binary%20Search/leetcode69.cpp) | easy | ⭐⭐⭐  |
+
+### 动态规划
+
+| 题目                 | 难度   |      |
+| -------------------- | ------ | ---- |
+| Leetcode198.打家劫舍 | medium | ⭐⭐   |
+
+
 
 ### 周赛
 
