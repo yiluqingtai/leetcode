@@ -44,9 +44,10 @@
 
 ### 哈希表
 
-| 题目                                                         | 难度 |      |
-| :----------------------------------------------------------- | ---- | ---- |
-| [Leetcode1.两数之和](https://github.com/yiluqingtai/leetcode/blob/master/Hash%20Table/leetcode1.cpp) | easy | ⭐    |
+| 题目                                                         | 难度   |      |
+| :----------------------------------------------------------- | ------ | ---- |
+| [Leetcode1.两数之和](https://github.com/yiluqingtai/leetcode/blob/master/Hash%20Table/leetcode1.cpp) | easy   | ⭐    |
+| Leetcode146.LRU缓存机制                                      | medium | ⭐⭐   |
 
 ### 字符串
 
