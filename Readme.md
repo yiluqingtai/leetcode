@@ -47,7 +47,7 @@
 | 题目                                                         | 难度   |      |
 | :----------------------------------------------------------- | ------ | ---- |
 | [Leetcode1.两数之和](https://github.com/yiluqingtai/leetcode/blob/master/Hash%20Table/leetcode1.cpp) | easy   | ⭐    |
-| [Leetcode146.LRU缓存机制](https://github.com/yiluqingtai/leetcode/blob/master/Hash Table/leetcode146.cpp) | medium | ⭐⭐   |
+| [Leetcode146.LRU缓存机制](https://github.com/yiluqingtai/leetcode/blob/master/Hash%20Table/leetcode146.cpp) | medium | ⭐⭐   |
 
 ### 字符串
 
