@@ -47,7 +47,7 @@
 | 题目                                                         | 难度   |      |
 | :----------------------------------------------------------- | ------ | ---- |
 | [Leetcode1.两数之和](https://github.com/yiluqingtai/leetcode/blob/master/Hash%20Table/leetcode1.cpp) | easy   | ⭐    |
-| Leetcode146.LRU缓存机制                                      | medium | ⭐⭐   |
+| [Leetcode146.LRU缓存机制](https://github.com/yiluqingtai/leetcode/blob/master/Hash Table/leetcode146.cpp) | medium | ⭐⭐   |
 
 ### 字符串
 
@@ -80,6 +80,12 @@
 | 题目                                                         | 难度   |      |
 | ------------------------------------------------------------ | ------ | ---- |
 | [Leetcode198.打家劫舍](https://github.com/yiluqingtai/leetcode/tree/master/DP/leetcode198) | medium | ⭐⭐   |
+
+### 排序
+
+| 题目                              | 难度   |      |
+| --------------------------------- | ------ | ---- |
+| Leetcode215.数组中的第K个最大元素 | medium | ⭐⭐⭐  |
 
 
 
