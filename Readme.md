@@ -7,6 +7,7 @@
 | [Leetcode31.下一个排列](https://github.com/yiluqingtai/leetcode/blob/master/Array/leetcode31.cpp) | medium | ⭐⭐⭐  |
 | [Leetcode41.缺失的第一个正数](https://github.com/yiluqingtai/leetcode/blob/master/Array/leetcode41.cpp) | hard   | ⭐    |
 | [Leetcode56.合并区间](https://github.com/yiluqingtai/leetcode/blob/master/Array/leetcode56.cpp) | medium | ⭐⭐⭐  |
+| Leetcode121.买卖股票的最佳时机                               | easy   | ⭐    |
 | [Leetcode122.买卖股票的最佳时机2](https://github.com/yiluqingtai/leetcode/blob/master/Array/leetcode122.cpp) | easy   | ⭐    |
 | [Leetcode300.最长上升子序列](https://github.com/yiluqingtai/leetcode/blob/master/Array/leetcode300.cpp) | medium | ⭐⭐   |
 
@@ -83,9 +84,9 @@
 
 ### 排序
 
-| 题目                              | 难度   |      |
-| --------------------------------- | ------ | ---- |
-| Leetcode215.数组中的第K个最大元素 | medium | ⭐⭐⭐  |
+| 题目                                                         | 难度   |      |
+| ------------------------------------------------------------ | ------ | ---- |
+| [Leetcode215.数组中的第K个最大元素](https://github.com/yiluqingtai/leetcode/tree/master/Sort/leetcode215) | medium | ⭐⭐⭐  |
 
 
 
