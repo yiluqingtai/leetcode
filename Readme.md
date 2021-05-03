@@ -4,6 +4,7 @@
 
 | 题目                                                         | 难度   |      |
 | ------------------------------------------------------------ | ------ | ---- |
+| Leetcode15.三数之和                                          | medium | ⭐⭐⭐  |
 | [Leetcode31.下一个排列](https://github.com/yiluqingtai/leetcode/blob/master/Array/leetcode31.cpp) | medium | ⭐⭐⭐  |
 | [Leetcode41.缺失的第一个正数](https://github.com/yiluqingtai/leetcode/blob/master/Array/leetcode41.cpp) | hard   | ⭐    |
 | [Leetcode56.合并区间](https://github.com/yiluqingtai/leetcode/blob/master/Array/leetcode56.cpp) | medium | ⭐⭐⭐  |
