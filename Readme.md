@@ -4,11 +4,12 @@
 
 | 题目                                                         | 难度   |      |
 | ------------------------------------------------------------ | ------ | ---- |
-| Leetcode15.三数之和                                          | medium | ⭐⭐⭐  |
+| [Leetcode15.三数之和](https://github.com/yiluqingtai/leetcode/blob/master/Array/leetcode15.cpp) | medium | ⭐⭐⭐  |
 | [Leetcode31.下一个排列](https://github.com/yiluqingtai/leetcode/blob/master/Array/leetcode31.cpp) | medium | ⭐⭐⭐  |
 | [Leetcode41.缺失的第一个正数](https://github.com/yiluqingtai/leetcode/blob/master/Array/leetcode41.cpp) | hard   | ⭐    |
+| Leetcode42.接雨水                                            | hard   | ⭐⭐   |
 | [Leetcode56.合并区间](https://github.com/yiluqingtai/leetcode/blob/master/Array/leetcode56.cpp) | medium | ⭐⭐⭐  |
-| Leetcode121.买卖股票的最佳时机                               | easy   | ⭐    |
+| [Leetcode121.买卖股票的最佳时机](https://github.com/yiluqingtai/leetcode/blob/master/Array/leetcode121.cpp) | easy   | ⭐    |
 | [Leetcode122.买卖股票的最佳时机2](https://github.com/yiluqingtai/leetcode/blob/master/Array/leetcode122.cpp) | easy   | ⭐    |
 | [Leetcode300.最长上升子序列](https://github.com/yiluqingtai/leetcode/blob/master/Array/leetcode300.cpp) | medium | ⭐⭐   |
 
@@ -21,6 +22,7 @@
 | [Leetcode141.环形链表](https://github.com/yiluqingtai/leetcode/blob/master/List/leetcode141.cpp) | easy   | ⭐    |
 | [Leetcode143.重排链表](https://github.com/yiluqingtai/leetcode/blob/master/List/leetcode143.cpp) | medium | ⭐⭐   |
 | [Leetcode148.排序链表](https://github.com/yiluqingtai/leetcode/blob/master/List/leetcode148.cpp) | medium | ⭐⭐⭐  |
+| Leetcode160.相交链表                                         | east   | ⭐    |
 | [Leetcode206.反转链表](https://github.com/yiluqingtai/leetcode/tree/master/List/leetcode206) | easy   | ⭐    |
 | [Leetcode234.回文链表](https://github.com/yiluqingtai/leetcode/blob/master/List/leetcode234.cpp) | easy   | ⭐    |
 
@@ -35,6 +37,8 @@
 | [Leetcode124.二叉树中的最大路径和](https://github.com/yiluqingtai/leetcode/blob/master/Tree/leetcode124.cpp) | hard   | ⭐    |
 | [Leetcode144.二叉树的前序遍历](https://github.com/yiluqingtai/leetcode/blob/master/Tree/leetcode144.cpp) | medium | ⭐    |
 | [Leetcode145.二叉树的后序遍历](https://github.com/yiluqingtai/leetcode/blob/master/Tree/leetcode145.cpp) | medium | ⭐⭐⭐  |
+| Leetcode199.二叉树的右视图                                   | medium | ⭐    |
+| Leetcode236.二叉树的最近公共祖先                             | medium | ⭐⭐   |
 
 ### 栈
 
@@ -73,9 +77,10 @@
 
 ### 二分查找
 
-| 题目                                                         | 难度 |      |
-| ------------------------------------------------------------ | ---- | ---- |
-| [Leetcode69.x的平方根](https://github.com/yiluqingtai/leetcode/blob/master/Binary%20Search/leetcode69.cpp) | easy | ⭐⭐⭐  |
+| 题目                                                         | 难度   |      |
+| ------------------------------------------------------------ | ------ | ---- |
+| Leetcode33.搜索旋转排序数组                                  | medium | ⭐⭐   |
+| [Leetcode69.x的平方根](https://github.com/yiluqingtai/leetcode/blob/master/Binary%20Search/leetcode69.cpp) | easy   | ⭐⭐⭐  |
 
 ### 动态规划
 
