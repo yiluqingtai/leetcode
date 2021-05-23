@@ -15,7 +15,8 @@ public:
         sort(nums.begin(), nums.end());
         int N = nums.size();
         vector<vector<int>> res;
-        for (int i = 0; i < N; i++) {
+        /*如果使用i < nums.size() - 2会出错，因为nums.size()为unsigned类型，需要转换为int类型*/
+        for (int i = 0; i < N - 2; i++) {
             if (i > 0 && nums[i] == nums[i - 1]) continue;
             int l = i + 1;
             int r = N - 1;

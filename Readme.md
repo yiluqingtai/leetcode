@@ -4,7 +4,7 @@
 
 | 题目                                                         | 难度   |      |
 | ------------------------------------------------------------ | ------ | ---- |
-| [Leetcode15.三数之和](https://github.com/yiluqingtai/leetcode/blob/master/Array/leetcode15.cpp) | medium | ⭐⭐⭐  |
+| [Leetcode15.三数之和](https://github.com/yiluqingtai/leetcode/blob/master/Array/leetcode15.cpp) | medium | ⭐⭐   |
 | [Leetcode31.下一个排列](https://github.com/yiluqingtai/leetcode/blob/master/Array/leetcode31.cpp) | medium | ⭐⭐⭐  |
 | [Leetcode41.缺失的第一个正数](https://github.com/yiluqingtai/leetcode/blob/master/Array/leetcode41.cpp) | hard   | ⭐    |
 | [Leetcode42.接雨水](https://github.com/yiluqingtai/leetcode/tree/master/Array/leetcode42) | hard   | ⭐⭐   |
@@ -17,7 +17,7 @@
 
 | 题目                                                         | 难度   |      |
 | ------------------------------------------------------------ | :----- | ---- |
-| [Leetcode25.K个一组翻转链表](https://github.com/yiluqingtai/leetcode/blob/master/List/leetcode25.cpp) | hard   | ⭐⭐⭐  |
+| [Leetcode25.K个一组翻转链表](https://github.com/yiluqingtai/leetcode/blob/master/List/leetcode25.cpp) | hard   | ⭐⭐   |
 | [Leetcode92.反转链表2](https://github.com/yiluqingtai/leetcode/blob/master/List/leetcode92.cpp) | medium | ⭐⭐⭐  |
 | [Leetcode141.环形链表](https://github.com/yiluqingtai/leetcode/blob/master/List/leetcode141.cpp) | easy   | ⭐    |
 | [Leetcode143.重排链表](https://github.com/yiluqingtai/leetcode/blob/master/List/leetcode143.cpp) | medium | ⭐⭐   |
@@ -53,13 +53,13 @@
 | 题目                                                         | 难度   |      |
 | :----------------------------------------------------------- | ------ | ---- |
 | [Leetcode1.两数之和](https://github.com/yiluqingtai/leetcode/blob/master/Hash%20Table/leetcode1.cpp) | easy   | ⭐    |
-| [Leetcode146.LRU缓存机制](https://github.com/yiluqingtai/leetcode/blob/master/Hash%20Table/leetcode146.cpp) | medium | ⭐⭐   |
+| [Leetcode146.LRU缓存机制](https://github.com/yiluqingtai/leetcode/blob/master/Hash%20Table/leetcode146.cpp) | medium | ⭐    |
 
 ### 字符串
 
 | 题目                                                         | 难度   |      |
 | ------------------------------------------------------------ | ------ | ---- |
-| [Leetcode3.无重复字符的最长子串](https://github.com/yiluqingtai/leetcode/blob/master/String/Leetcode3.cpp) | medium | ⭐⭐   |
+| [Leetcode3.无重复字符的最长子串](https://github.com/yiluqingtai/leetcode/blob/master/String/Leetcode3.cpp) | medium | ⭐    |
 | [Leetcode76.最小覆盖子串](https://github.com/yiluqingtai/leetcode/blob/master/String/Leetcode176.cpp) | hard   | ⭐⭐⭐⭐ |
 
 ### 深度优先搜索
@@ -86,14 +86,14 @@
 
 | 题目                                                         | 难度   |      |
 | ------------------------------------------------------------ | ------ | ---- |
-| Leetcode53.最大子序和                                        | easy   | ⭐⭐⭐  |
+| [Leetcode53.最大子序和](https://github.com/yiluqingtai/leetcode/tree/master/DP/leetcode53) | easy   | ⭐⭐⭐  |
 | [Leetcode198.打家劫舍](https://github.com/yiluqingtai/leetcode/tree/master/DP/leetcode198) | medium | ⭐⭐   |
 
 ### 排序
 
 | 题目                                                         | 难度   |      |
 | ------------------------------------------------------------ | ------ | ---- |
-| [Leetcode215.数组中的第K个最大元素](https://github.com/yiluqingtai/leetcode/tree/master/Sort/leetcode215) | medium | ⭐⭐   |
+| [Leetcode215.数组中的第K个最大元素](https://github.com/yiluqingtai/leetcode/tree/master/Sort/leetcode215) | medium | ⭐    |
 
 
 
@@ -110,7 +110,7 @@
 
 ### 每日一题
 
-| 日期 | 题目                          | 难度 | 类型   |      |
-| ---- | ----------------------------- | ---- | ------ | ---- |
-| 5.6  | Leetcode1720.解码异或后的数组 | easy | 位运算 | ⭐    |
+| 日期 | 题目                                                         | 难度 | 类型   |      |
+| ---- | ------------------------------------------------------------ | ---- | ------ | ---- |
+| 5.6  | [Leetcode1720.解码异或后的数组](https://github.com/yiluqingtai/leetcode/blob/master/Bit Operation/leetcode1720.cpp) | easy | 位运算 | ⭐    |
 
