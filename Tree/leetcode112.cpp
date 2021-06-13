@@ -1,13 +1,12 @@
 /**
  *
- * File:    leetcode98.cpp
- *          验证二叉搜索树
+ * File:    leetcode112.cpp
+ *          路径总和
  * 
  * Author:  yiluqingtai(1572236483@qq.com)
- *          Created on 21/4/22
+ *          Created on 21/5/30
  *          
  **/
-
 
 /**
  * Definition for a binary tree node.
@@ -22,13 +21,10 @@
  */
 class Solution {
 public:
-    TreeNode *pre = nullptr;
-    bool isValidBST(TreeNode* root) {
-        if (!root) return true;
-        bool left = isValidBST(root->left);
-        if (pre && root->val <= pre->val) return false;
-        pre = root;
-        bool right = isValidBST(root->right);
-        return left && right;
+    bool hasPathSum(TreeNode* root, int targetSum) {
+        if (!root) return false;
+        if (!root->left && !root->right && targetSum == root->val) return true;
+        return hasPathSum(root->left, targetSum - root->val) 
+                          || hasPathSum(root->right, targetSum - root->val);
     }
 };
