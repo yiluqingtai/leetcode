@@ -1,7 +1,7 @@
 /**
  *
  * File:    leetcode54.cpp
- *          螺旋举着
+ *          螺旋矩阵
  * 
  * Author:  yiluqingtai(1572236483@qq.com)
  *          Created on 21/5/30
