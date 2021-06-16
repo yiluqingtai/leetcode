@@ -42,7 +42,7 @@
 | [Leetcode103.二叉树的锯齿形层次遍历](https://github.com/yiluqingtai/leetcode/blob/master/Tree/leetcode103.cpp) | medium | ⭐    |
 | [Leetcode105.从前序与中序遍历序列构造二叉树](https://github.com/yiluqingtai/leetcode/blob/master/Tree/leetcode105.cpp) | medium | ⭐    |
 | [Leetcode112.路径总和](https://github.com/yiluqingtai/leetcode/blob/master/Tree/leetcode112.cpp) | easy   | ⭐    |
-| [Leetcode113.路径总和2](https://github.com/yiluqingtai/leetcode/blob/master/Tree/leetcode113.cpp) | medium | ⭐⭐   |
+| [Leetcode113.路径总和2](https://github.com/yiluqingtai/leetcode/blob/master/Tree/leetcode113.cpp) | medium | ⭐⭐⭐  |
 | [Leetcode124.二叉树中的最大路径和](https://github.com/yiluqingtai/leetcode/blob/master/Tree/leetcode124.cpp) | hard   | ⭐    |
 | [Leetcode129.求根节点到叶节点数字之和](https://github.com/yiluqingtai/leetcode/blob/master/Tree/leetcode129.cpp) | medium | ⭐    |
 | [Leetcode144.二叉树的前序遍历](https://github.com/yiluqingtai/leetcode/blob/master/Tree/leetcode144.cpp) | medium | ⭐    |
@@ -122,7 +122,8 @@
 
 ### 每日一题
 
-| 日期 | 题目                                                         | 难度 | 类型   |      |
-| ---- | ------------------------------------------------------------ | ---- | ------ | ---- |
-| 5.6  | [Leetcode1720.解码异或后的数组](https://github.com/yiluqingtai/leetcode/blob/master/Bit%20Operation/leetcode1720.cpp) | easy | 位运算 | ⭐    |
+| 日期 | 题目                                                         | 难度   | 类型     |      |
+| ---- | ------------------------------------------------------------ | ------ | -------- | ---- |
+| 5.6  | [Leetcode1720.解码异或后的数组](https://github.com/yiluqingtai/leetcode/blob/master/Bit%20Operation/leetcode1720.cpp) | easy   | 位运算   | ⭐    |
+| 6.16 | Leetcode877.石子游戏                                         | medium | 动态规划 | ⭐⭐   |
 
