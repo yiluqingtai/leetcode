@@ -46,7 +46,7 @@
 | [Leetcode124.二叉树中的最大路径和](https://github.com/yiluqingtai/leetcode/blob/master/Tree/leetcode124.cpp) | hard   | ⭐    |
 | [Leetcode129.求根节点到叶节点数字之和](https://github.com/yiluqingtai/leetcode/blob/master/Tree/leetcode129.cpp) | medium | ⭐    |
 | [Leetcode144.二叉树的前序遍历](https://github.com/yiluqingtai/leetcode/blob/master/Tree/leetcode144.cpp) | medium | ⭐    |
-| [Leetcode145.二叉树的后序遍历](https://github.com/yiluqingtai/leetcode/blob/master/Tree/leetcode145.cpp) | medium | ⭐⭐   |
+| [Leetcode145.二叉树的后序遍历](https://github.com/yiluqingtai/leetcode/blob/master/Tree/leetcode145.cpp) | medium | ⭐    |
 | [Leetcode199.二叉树的右视图](https://github.com/yiluqingtai/leetcode/blob/master/Tree/leetcode199.cpp) | medium | ⭐    |
 | [Leetcode236.二叉树的最近公共祖先](https://github.com/yiluqingtai/leetcode/blob/master/Tree/leetcode236.cpp) | medium | ⭐⭐   |
 
@@ -125,5 +125,6 @@
 | 日期 | 题目                                                         | 难度   | 类型     |      |
 | ---- | ------------------------------------------------------------ | ------ | -------- | ---- |
 | 5.6  | [Leetcode1720.解码异或后的数组](https://github.com/yiluqingtai/leetcode/blob/master/Bit%20Operation/leetcode1720.cpp) | easy   | 位运算   | ⭐    |
-| 6.16 | Leetcode877.石子游戏                                         | medium | 动态规划 | ⭐⭐   |
+| 6.16 | [Leetcode877.石子游戏](https://github.com/yiluqingtai/leetcode/blob/master/DP/leetcode877.cpp) | medium | 动态规划 | ⭐⭐   |
+| 6.23 | Offer15.二进制中1的个数                                      | easy   | 位运算   | ⭐    |
 
