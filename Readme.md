@@ -126,5 +126,6 @@
 | ---- | ------------------------------------------------------------ | ------ | -------- | ---- |
 | 5.6  | [Leetcode1720.解码异或后的数组](https://github.com/yiluqingtai/leetcode/blob/master/Bit%20Operation/leetcode1720.cpp) | easy   | 位运算   | ⭐    |
 | 6.16 | [Leetcode877.石子游戏](https://github.com/yiluqingtai/leetcode/blob/master/DP/leetcode877.cpp) | medium | 动态规划 | ⭐⭐   |
-| 6.23 | Offer15.二进制中1的个数                                      | easy   | 位运算   | ⭐    |
+| 6.23 | [Offer15.二进制中1的个数](https://github.com/yiluqingtai/leetcode/tree/master/Bit%20Operation/offer15) | easy   | 位运算   | ⭐    |
+| 6.26 | Leetcode773.滑动谜题                                         | hard   | BFS      | ⭐⭐⭐  |
 

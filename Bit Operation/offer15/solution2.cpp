@@ -1,6 +1,6 @@
 /**
  *
- * File:    offer15.solution2.cpp
+ * File:    offer15/solution2.cpp
  *          二进制中1的个数
  * 
  * Author:  yiluqingtai(1572236483@qq.com)
